@@ -1,0 +1,27 @@
+{% assign current = page.url | downcase | split: '/' %} <!-- http://stackoverflow.com/a/19273580 -->
+
+{% assign live_classes = "live" %}
+{% if site.live != true %}
+  {% assign live_classes = live_classes | append: ' ' %} <!-- maybe append 'disabled'? or maybe just leave it always on -->
+{% endif %}
+{% if current[1] == 'live' %}
+	{% assign live_classes = live_classes | append: ' active' %}
+{% endif %}
+
+<ul class="horizontal header-nav">
+	<li {% if current[0] == nil %} class="active" {% endif %}>
+		<a href="/">home</a>
+	</li>
+	<li {% if current[1] =="songs" %} class="active" {% endif %}>
+		<a href="/songs">songs</a>
+	</li>
+	<li {% if current[1] =='listen' %} class="active" {% endif %}>
+		<a href="/listen">listen</a>
+	</li>
+	<li {% if current[1] =='contact' %} class="active" {% endif %}>
+		<a href="/contact">contact</a>
+	</li>
+	<li class="{{live_classes}}">
+		<a href="/live">LIVE <i class="fa fa-play" aria-hidden="true"></i></a>
+	</li>
+</ul>

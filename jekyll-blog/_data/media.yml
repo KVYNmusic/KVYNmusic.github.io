@@ -1,0 +1,20 @@
+#List of media to display. Template should just display embed codes unescaped
+- title: FB Live Stream (2-16-17)
+  type: facebook
+  embed: <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkyuliawan%2Fvideos%2Fvb.683545046%2F10154134434360047%2F%3Ftype%3D3&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+- title: Xmas In July 2k16 gig log
+  type: youtube
+  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/vRXpDT7-iD0" frameborder="0" allowfullscreen></iframe>
+
+- title: 4th of July 2k16 Montage
+  type: youtube
+  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/ghuUYnV2M7c" frameborder="0" allowfullscreen></iframe>
+
+- title: The Beatles - All My Loving (KVYN acoustic cover)
+  type: youtube
+  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/88PSraVFJuM" frameborder="0" allowfullscreen></iframe>
+
+- title: KVYN @ Westside 2 Pint 0
+  type: youtube
+  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/a7g37SV6hSU" frameborder="0" allowfullscreen></iframe>

@@ -1,0 +1,94 @@
+---
+---
+
+@import "colors";
+
+body{
+	background-color:#222222;
+	color:white;
+}
+
+.footer{
+	padding-bottom:50px;
+}
+
+.main-container{
+	padding-top:30px;
+}
+
+.logo{
+	max-width:150px;
+}
+
+ul.horizontal{
+	margin: 0px;
+	padding: 0px;
+	list-style-type:none;
+	padding-left:55px;
+
+	li{
+		display:inline-block;
+		margin: 0px 20px;
+		a{
+			color: inherit;
+			&:hover{
+				text-decoration:underline;
+			}
+		}
+		&.active{
+			text-decoration: underline;
+		}
+	}
+}
+
+ul.social li a{
+	&:hover{
+		color: #0275d8;
+	}
+}
+
+.live{
+	padding: 3px 8px;
+	border-radius: 5px;
+  background-color:#e74c3c;
+  i{
+  	margin-left:10px;
+  }
+}
+
+.live.disabled{
+	opacity: 0.65;
+	filter: alpha(opacity=65);
+}
+
+.home-img{
+	width:200px;
+}
+
+.songs-list{
+	width: 50%;
+	margin:auto;
+}
+
+.media-list{
+	list-style-type:none;
+	li{
+		margin:50px auto;
+		&:first-of-type{
+			margin-top:0px;
+		}
+	}
+	p{
+		text-align:center;
+	}
+}
+
+.contact{
+	width:70%;
+	margin:auto;
+}
+
+.contact-submit{
+	cursor: pointer;
+}
+
