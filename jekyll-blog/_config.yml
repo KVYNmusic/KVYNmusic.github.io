@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 live: false #if a FB stream is live
-live_url: https://www.facebook.com/FacebookDevelopers/videos/10152454700553553/ 
+live_url: https://www.facebook.com/kyuliawan/videos/vb.683545046/10154134434360047/
 title: KVYN
 email: KVYNmusic@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -40,4 +40,5 @@ permalink: pretty
 include: ['_pages']
 sass:
     sass_dir: /assets/_sass
+host: 0.0.0.0 #allow other computers on same network to access this
   
