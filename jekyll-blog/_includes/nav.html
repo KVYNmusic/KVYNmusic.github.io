@@ -8,7 +8,7 @@
 	{% assign live_classes = live_classes | append: ' active' %}
 {% endif %}
 
-<ul class="horizontal header-nav">
+<ul class="horizontal header-nav first">
 	<li {% if current[0] == nil %} class="active" {% endif %}>
 		<a href="/">home</a>
 	</li>
@@ -18,6 +18,9 @@
 	<li {% if current[1] =='listen' %} class="active" {% endif %}>
 		<a href="/listen">listen</a>
 	</li>
+</ul>
+
+<ul class="horizontal header-nav second">
 	<li {% if current[1] =='contact' %} class="active" {% endif %}>
 		<a href="/contact">contact</a>
 	</li>

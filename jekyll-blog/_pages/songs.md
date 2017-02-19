@@ -8,12 +8,14 @@ layout: page
 	<p class="text-center">Total amount of songs: {{site.data.songs_array | size}}</p>
 	<div class="form-group text-center">
 		<input class="search" placeholder="Search" />
-		<button class="sort" data-sort="artist">
-	    Sort by artist
-	  </button>
-	  <button class="sort" data-sort="title">
-	    Sort by title
-	  </button>
+		<div class="songs-buttons">
+			<button class="sort" data-sort="artist">
+		    Sort by artist
+		  </button>
+		  <button class="sort" data-sort="title">
+		    Sort by title
+		  </button>
+	  </div>
   </div>
 	<ul class="list songs-list">
 		{% for song in site.data.songs_array %}

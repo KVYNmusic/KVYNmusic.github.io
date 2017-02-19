@@ -32,9 +32,11 @@ layout: page
 
 	<div class="fb-video" data-href="{{site.live_url}}" data-allowfullscreen="true" data-width="500"></div>
 
-	<p style="margin-top:30px;">To request a song, please use the form below. Click <a href="/songs">here</a> for a list of songs that Kevin knows.</p>
+	<p style="margin-top:30px;">To request a song, please use the form below. Click <a href="/songs">here</a> for a list of songs that KVYN knows.</p>
 
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSehe_aL46yfkSPAJW3S3JrVrqkzerl1xRYwtIP68dpYE3AXRw/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+  <div class="iframe-container">
+	 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSehe_aL46yfkSPAJW3S3JrVrqkzerl1xRYwtIP68dpYE3AXRw/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+  </div>
 
 {% else %}
 

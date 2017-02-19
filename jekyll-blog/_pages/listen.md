@@ -8,7 +8,11 @@ layout: page
 	{% for item in site.data.media %}
 		<li>
 			<p>{{item.title}}</p>
-			<p>{{item.embed}}</p>
+			<p>
+				<div class="iframe-container">
+					{{item.embed}}
+				</div>
+			</p>
 		</li>
 	{% endfor %}
 </ul>
