@@ -16,11 +16,35 @@ layout: page
 		    Sort by title
 		  </button>
 	  </div>
+	  <div class="songs-buttons categories">
+	  	<button class="filter" data-filter="all">
+	  		All
+	  	</button>
+	  	<button class="filter" data-filter="party">
+	  		Party/Bar
+	  	</button>
+	  	<button class="filter" data-filter="wedding">
+	  		Wedding
+	  	</button>
+	  	<button class="filter" data-filter="holiday">
+	  		Holiday
+	  	</button>
+	  	<button class="filter" data-filter="other">
+	  		Other
+	  	</button>
+	  </div>
   </div>
 	<ul class="list songs-list">
 		{% for song in site.data.songs_array %}
 			<li>
-				<span class="artist">{{song.artist}}</span> - <span class="title">{{song.title}}</span>
+				{% if song.id %}
+					<a href="/listen#{{song.id}}">
+						<span class="artist">{{song.artist}}</span> - <span class="title">{{song.title}}</span>
+					</a>
+				{% else %}
+					<span class="artist">{{song.artist}}</span> - <span class="title">{{song.title}}</span>
+				{% endif %}
+					<span class="tags camo">{{song.tags}}</span>
 			</li>
 		{% endfor %}
 	</ul>

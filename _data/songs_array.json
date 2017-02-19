@@ -16,8 +16,9 @@
     "reaperId": "",
     "seconds": 268,
     "size": "16px",
-    "tags": "90's,partyjamz",
-    "title": "Semi-Charmed Life"
+    "tags": "90's,partyjamz,party",
+    "title": "Semi-Charmed Life",
+    "id": "semi-charmed-life"
   },
   {
     "artist": "The Police",
@@ -36,7 +37,7 @@
     "reaperId": "",
     "seconds": 195,
     "size": "28px",
-    "tags": "partyjamz,oldies",
+    "tags": "partyjamz,oldies,party",
     "title": "Roxanne"
   },
   {
@@ -57,7 +58,7 @@
     "reaperId": "",
     "seconds": 215,
     "size": "21px",
-    "tags": "partyjamz",
+    "tags": "partyjamz,party",
     "title": "Shake It Off"
   },
   {
@@ -494,7 +495,8 @@
     "seconds": 220,
     "size": "19px",
     "tags": "partyjamz,00's,alt,punk",
-    "title": "Sugar"
+    "title": "Sugar We're Goin Down",
+    "id": "sugar-were-goin-down"
   },
   {
     "artist": "Yellowcard",
@@ -754,7 +756,8 @@
     "rating": 4,
     "size": "18px",
     "tags": "partyjamz,oldies",
-    "title": "The Joker"
+    "title": "The Joker",
+    "id": "the-joker"
   },
   {
     "artist": "Paramore",
@@ -764,7 +767,7 @@
     "lyrics": "[Instrumental D-Am7-Gmaj7]\n\n[Verse 1 (palm mute)]\nWhen I was younger I saw,\nMy daddy cry,\nAnd curse at the wind.\nHe broke his own heart and I watched,\nAs he tried to reassemble it\n\nAnd my momma swore that she would,\nNever let herself forget.\nAnd that was the day that I promised,\nI'd never sing of love,\nIf it does not exist, but darlin'\n\n[Chorus]\nYou are, the only exception (x4)\n\n[Verse 2 (open)]\nMaybe I know, somewhere,\nDeep in my soul,\nThat love never lasts.\nAnd we've got to find other ways,\nTo make it alone,\nBut keep a straight face.\n\nAnd I've always lived like this,\nKeeping a comfortable, distance.\nAnd up until now, I had sworn to myself that I'm content\nWith loneliness\n\nBecause none of it was ever worth the risk\n\n[Chorus (tambo)]\nBut, you are, the only exception\nYou are, the only exception (x3)\n\n[Instrumental Em-D-A]\n\n[Bridge Em-D-A]\nI've got a tight grip on reality, but I can't,\nLet go of what's in front of me here\nI know you're leaving in the morning when you wake up,\nLeave me with some kind of proof it's not a dream, oh (G)\n\n[Chorus]\nYou are, the only exception (x4)\n\nYou are, the only exception (x4)\n\n(C-G-D)\nAnd I'm on my way to believing\nOh, and I'm on my way to believing.",
     "rating": 3,
     "size": "28px",
-    "tags": "partyjamz,alt,00's,acoustic",
+    "tags": "partyjamz,alt,00's,acoustic,wedding",
     "title": "The Only Exception"
   },
   {
@@ -1278,7 +1281,7 @@
     "rating": 0,
     "reaperId": "",
     "size": "19px",
-    "tags": "christmas",
+    "tags": "christmas,holiday",
     "title": "Jingle Bell Rock"
   },
   {

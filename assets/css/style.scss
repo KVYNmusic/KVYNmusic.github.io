@@ -1,13 +1,15 @@
 ---
 ---
 
+$bgblack: #222222;
 $red: #e74c3c;
 $orange: #FF6A00;
 $youtubered: #E62117;
 $blue: #0275d8;
 
+
 body{
-	background-color:#222222;
+	background-color:$bgblack;
 	color:white;
 }
 
@@ -160,5 +162,19 @@ ul.header-nav{
 		display:block;
 		margin-top:10px;
 	}
+	&.categories{
+		margin-top:10px;
+	}
 }
 
+.camo{
+	color: $bgblack;
+}
+
+.songs-list .tags{
+	margin:0px;
+	padding:0px;
+	position:absolute; //ugly solution to the fact that list.js needs these properties displayed
+	bottom:0px;
+	right:0px;
+}
