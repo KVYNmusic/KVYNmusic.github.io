@@ -35,6 +35,9 @@ a{
   overflow: auto;
   -webkit-overflow-scrolling: touch;
   overflow-y: auto;
+  &.audio{
+  	padding-bottom: 20%;
+  }
   iframe{
   	position: absolute;
     top:0;

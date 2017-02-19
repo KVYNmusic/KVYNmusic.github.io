@@ -9,9 +9,15 @@ layout: page
 		<li>
 			<p>{{item.title}}</p>
 			<p>
-				<div class="iframe-container">
-					{{item.embed}}
-				</div>
+				{% if item.type == 'video' %}
+					<div class="iframe-container">
+						{{item.embed}}
+					</div>
+				{% else %}
+					<div class="iframe-container audio">
+						{{item.embed}}
+					</div>
+				{% endif %}
 			</p>
 		</li>
 	{% endfor %}
