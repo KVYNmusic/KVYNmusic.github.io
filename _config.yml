@@ -16,13 +16,16 @@
 live: true #if a FB stream is live
 live_url: https://www.facebook.com/kyuliawan/videos/vb.683545046/10154134434360047/
 title: KVYN
-email: KVYNmusic@gmail.com
+email: contact@KVYNmusic.com
 description: > # this means to ignore newlines until "baseurl:"
   KVYN Music | live music, DJ, audio/visual for parties, weddings, and bars. Based in the tri-state/New England area.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kevinyuliawan
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://KVYNmusic.com" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: KVYNmusic
 github_username:  KVYNmusic
+facebook_username: KVYNmusic
+soundcloud_username: KVYNmusic
+youtube_username: channel/UCavy8S24QjXkZ3PQv3iQjjw
 timezone: America/New_York
 excerpt_separator: <!--more-->
 logo_url: /assets/img/logo-white.png

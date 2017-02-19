@@ -8,11 +8,14 @@
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}"> <!-- remove this default minima css -->
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <link rel="stylesheet" href="/assets/main.css"> <!-- should remove this default minima CSS eventually after testing -->
+  <link rel="stylesheet" href="/assets/css/style.css">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+  <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
   
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
