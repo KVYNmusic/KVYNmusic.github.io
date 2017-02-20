@@ -36,6 +36,7 @@
   site: youtube
   type: video
   embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/88PSraVFJuM" frameborder="0" allowfullscreen></iframe>
+  id: 'all-my-loving'
 
 - title: KVYN @ Westside 2 Pint 0
   site: youtube
