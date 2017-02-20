@@ -169,9 +169,6 @@ ul.header-nav{
 
 .camo{
 	color: $bgblack;
-}
-
-.songs-list .tags{
 	margin:0px;
 	padding:0px;
 	position:absolute; //ugly solution to the fact that list.js needs these properties displayed
