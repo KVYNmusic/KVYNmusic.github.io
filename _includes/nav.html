@@ -12,15 +12,18 @@
 	<li {% if current[0] == nil %} class="active" {% endif %}>
 		<a href="/">home</a>
 	</li>
+	<li {% if current[1] =='shows' %} class="active" {% endif %}>
+		<a href="/shows">shows</a>
+	</li>
 	<li {% if current[1] =="songs" %} class="active" {% endif %}>
 		<a href="/songs">songs</a>
-	</li>
-	<li {% if current[1] =='listen' %} class="active" {% endif %}>
-		<a href="/listen">listen</a>
 	</li>
 </ul>
 
 <ul class="horizontal header-nav second">
+	<li {% if current[1] =='listen' %} class="active" {% endif %}>
+		<a href="/listen">listen</a>
+	</li>
 	<li {% if current[1] =='contact' %} class="active" {% endif %}>
 		<a href="/contact">contact</a>
 	</li>
