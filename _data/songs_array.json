@@ -1,4 +1,4 @@
-  [
+[
   {
     "artist": "Third Eye Blind",
     "title": "Semi-Charmed Life",
@@ -454,7 +454,7 @@
   },
   {
     "artist": "Wham!",
-    "title": "Last holiday",
+    "title": "Last Christmas",
     "tags": "holiday"
   },
   {
@@ -469,7 +469,7 @@
   },
   {
     "artist": "Holiday",
-    "title": "All I Want For holiday Is You",
+    "title": "All I Want For Christmas Is You",
     "tags": "holiday"
   },
   {
@@ -489,17 +489,17 @@
   },
   {
     "artist": "Holiday",
-    "title": "Holly Jolly holiday",
+    "title": "Holly Jolly Christmas",
     "tags": "holiday"
   },
   {
     "artist": "Holiday",
-    "title": "Have Yourself A Merry Little holiday",
+    "title": "Have Yourself A Merry Little Christmas",
     "tags": "holiday"
   },
   {
     "artist": "Holiday",
-    "title": "The holiday Song (Chestnuts)",
+    "title": "The Christmas Song (Chestnuts)",
     "tags": "holiday"
   },
   {
@@ -1347,5 +1347,1320 @@
     "artist": "Fall Out Boy",
     "title": "Yule Shoot Your Eye Out",
     "tags": "holiday,acoustic,alt"
+  },
+  {
+    "artist": "Avril Lavigne",
+    "title": "Complicated",
+    "tags": ""
+  },
+  {
+    "artist": "Tracy Chapman",
+    "title": "Give Me One Reason",
+    "tags": ""
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "The Way You Look Tonight",
+    "tags": ""
+  },
+  {
+    "artist": "Jackson 5",
+    "title": "Blame It On The Boogie",
+    "tags": ""
+  },
+  {
+    "artist": "Jamie Foxx",
+    "title": "Blame It On The Alcohol",
+    "tags": ""
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Kokomo",
+    "tags": ""
+  },
+  {
+    "artist": "Luis Fonsi + Justin Bieber",
+    "title": "Despacito",
+    "tags": ""
+  },
+  {
+    "artist": "Khalid",
+    "title": "Location",
+    "tags": ""
+  },
+  {
+    "artist": "Shaggy",
+    "title": "Keepin It Real",
+    "tags": ""
+  },
+  {
+    "artist": "DJ Khaled ft Justin Bieber",
+    "title": "I'm The One",
+    "tags": ""
+  },
+  {
+    "artist": "Sean Kingston",
+    "title": "Beautiful Girls",
+    "tags": ""
+  },
+  {
+    "artist": "Alessia Cara",
+    "title": "Stay",
+    "tags": ""
+  },
+  {
+    "artist": "Elton John",
+    "title": "Your Song",
+    "tags": ""
+  },
+  {
+    "artist": "Ripe",
+    "title": "Goon Squad",
+    "tags": ""
+  },
+  {
+    "artist": "Taking Back Sunday",
+    "title": "MakeDamnSure",
+    "tags": ""
+  },
+  {
+    "artist": "Sam Hunt",
+    "title": "Body Like A Back Road",
+    "tags": "country"
+  },
+  {
+    "artist": "Sam Hunt",
+    "title": "House Party",
+    "tags": "country"
+  },
+  {
+    "artist": "Beyonce",
+    "title": "Love On Top",
+    "tags": ""
+  },
+  {
+    "artist": "Drake Bell",
+    "title": "Down We Fall",
+    "tags": "theme song"
+  },
+  {
+    "artist": "Drake Bell",
+    "title": "Found A Way",
+    "tags": "theme song"
+  },
+  {
+    "artist": "Miranda Cosgrove",
+    "title": "Leave It All To Me (iCarly)",
+    "tags": "theme song"
+  },
+  {
+    "artist": "Owl City",
+    "title": "Fireflies",
+    "tags": ""
+  },
+  {
+    "artist": "Lauryn Hill",
+    "title": "Killing Me Softly",
+    "tags": ""
+  },
+  {
+    "artist": "Lauryn Hill",
+    "title": "Doo Wop (That Thing)",
+    "tags": ""
+  },
+  {
+    "artist": "Shania Twain",
+    "title": "You're Still The One",
+    "tags": ""
+  },
+  {
+    "artist": "Dixie Chicks",
+    "title": "Wide Open Spaces",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "She Loves You",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "I Want To Hold Your Hand",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "A Hard Day's Night",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Help!",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Yesterday",
+    "tags": ""
+  },
+  {
+    "artist": "Lawrence",
+    "title": "Do Nothing With Me",
+    "tags": ""
+  },
+  {
+    "artist": "Coldplay",
+    "title": "Green Eyes",
+    "tags": ""
+  },
+  {
+    "artist": "Foo Fighters",
+    "title": "Everlong",
+    "tags": ""
+  },
+  {
+    "artist": "Drake",
+    "title": "Passionfruit",
+    "tags": ""
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Billionaire",
+    "tags": ""
+  },
+  {
+    "artist": "Linkin Park",
+    "title": "In The End",
+    "tags": ""
+  },
+  {
+    "artist": "Magic",
+    "title": "Rude",
+    "tags": ""
+  },
+  {
+    "artist": "Miley Cyrus",
+    "title": "Party Maybe",
+    "tags": ""
+  },
+  {
+    "artist": "Rihanna + Drake",
+    "title": "Work One Dance",
+    "tags": ""
+  },
+  {
+    "artist": "Nelly",
+    "title": "Ride Wit Me (abridged)",
+    "tags": ""
+  },
+  {
+    "artist": "Zac Brown Band",
+    "title": "Toes",
+    "tags": ""
+  },
+  {
+    "artist": "Traditional",
+    "title": "America The Beautiful",
+    "tags": ""
+  },
+  {
+    "artist": "John Mellencamp",
+    "title": "Jack And Diane",
+    "tags": ""
+  },
+  {
+    "artist": "Macy Gray",
+    "title": "I Try",
+    "tags": ""
+  },
+  {
+    "artist": "CCR",
+    "title": "Proud Mary",
+    "tags": ""
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "The Way You Make Me Feel",
+    "tags": ""
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Nothin On You",
+    "tags": ""
+  },
+  {
+    "artist": "Juice",
+    "title": "Coconut Girl",
+    "tags": ""
+  },
+  {
+    "artist": "Seal",
+    "title": "Kiss From A Rose",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Hey Jude",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Do You Want To Know A Secret",
+    "tags": ""
+  },
+  {
+    "artist": "Bryan J",
+    "title": "Let Me Take You Out",
+    "tags": ""
+  },
+  {
+    "artist": "Kid Cudi",
+    "title": "Up Up and Away",
+    "tags": ""
+  },
+  {
+    "artist": "Kid Cudi",
+    "title": "Soundtrack 2 My Life",
+    "tags": ""
+  },
+  {
+    "artist": "Kid Cudi",
+    "title": "Pursuit of Happiness",
+    "tags": ""
+  },
+  {
+    "artist": "Al Green",
+    "title": "Let's Stay Together",
+    "tags": ""
+  },
+  {
+    "artist": "Rihanna ft. Kanye",
+    "title": "FourFive Seconds",
+    "tags": ""
+  },
+  {
+    "artist": "Hootie and the Blowfish",
+    "title": "Let Her Cry",
+    "tags": ""
+  },
+  {
+    "artist": "Hootie and the Blowfish",
+    "title": "Hold My Hand",
+    "tags": ""
+  },
+  {
+    "artist": "Hootie and the Blowfish",
+    "title": "Time",
+    "tags": ""
+  },
+  {
+    "artist": "Portal",
+    "title": "Still Alive",
+    "tags": ""
+  },
+  {
+    "artist": "Woody Guthrie",
+    "title": "This Land Is Your Land",
+    "tags": ""
+  },
+  {
+    "artist": "Justin Timberlake",
+    "title": "Senorita",
+    "tags": ""
+  },
+  {
+    "artist": "Marc Anthony",
+    "title": "I Need To Know",
+    "tags": ""
+  },
+  {
+    "artist": "Jamiroquai",
+    "title": "Virtual Insanity",
+    "tags": ""
+  },
+  {
+    "artist": "The Neighbourhood",
+    "title": "Sweater Weather",
+    "tags": ""
+  },
+  {
+    "artist": "Tony Orlando",
+    "title": "Tie A Yellow Ribbon",
+    "tags": ""
+  },
+  {
+    "artist": "Zac Brown Band",
+    "title": "Homegrown",
+    "tags": ""
+  },
+  {
+    "artist": "Ray LaMontagne",
+    "title": "You Are The Best Thing",
+    "tags": ""
+  },
+  {
+    "artist": "Secondhand Serenade",
+    "title": "Fall For You",
+    "tags": ""
+  },
+  {
+    "artist": "Violent Femmes",
+    "title": "Blister In The Sun",
+    "tags": ""
+  },
+  {
+    "artist": "Don McLean",
+    "title": "American Pie",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Something",
+    "tags": ""
+  },
+  {
+    "artist": "Isley Brothers",
+    "title": "Shout",
+    "tags": ""
+  },
+  {
+    "artist": "Van Morrison",
+    "title": "Brown Eyed Girl",
+    "tags": ""
+  },
+  {
+    "artist": "The Temptations",
+    "title": "My Girl",
+    "tags": ""
+  },
+  {
+    "artist": "Stealers Wheel",
+    "title": "Stuck In The Middle With You",
+    "tags": ""
+  },
+  {
+    "artist": "Sheryl Crow",
+    "title": "All I Wanna Do",
+    "tags": ""
+  },
+  {
+    "artist": "The Cardigans",
+    "title": "Lovefool",
+    "tags": ""
+  },
+  {
+    "artist": "Sixpence None The Richer",
+    "title": "Kiss Me",
+    "tags": ""
+  },
+  {
+    "artist": "No Doubt",
+    "title": "Don't Speak",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Bigger Than My Body",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Gravity",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "In My Life",
+    "tags": ""
+  },
+  {
+    "artist": "Alicia Keys",
+    "title": "If I Ain't Got You",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Your Body Is A Wonderland",
+    "tags": ""
+  },
+  {
+    "artist": "Song requests form",
+    "title": "(untitled)",
+    "tags": ""
+  },
+  {
+    "artist": "Chris Stapleton",
+    "title": "Tennessee Whiskey",
+    "tags": ""
+  },
+  {
+    "artist": "Alanis Morissette",
+    "title": "Ironic",
+    "tags": ""
+  },
+  {
+    "artist": "Smokey Robison",
+    "title": "Cruisin",
+    "tags": ""
+  },
+  {
+    "artist": "Coldplay",
+    "title": "Fix You",
+    "tags": ""
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Landslide",
+    "tags": ""
+  },
+  {
+    "artist": "The Fray",
+    "title": "How To Save A Life",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "My Stupid Mouth",
+    "tags": ""
+  },
+  {
+    "artist": "Israel Kamakawiwo'ole",
+    "title": "Somewhere Over The Rainbow / What A Wonderful World",
+    "tags": ""
+  },
+  {
+    "artist": "Christina Aguilera",
+    "title": "What A Girl Wants",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Daughters",
+    "tags": ""
+  },
+  {
+    "artist": "Elton John",
+    "title": "Bennie and the Jets",
+    "tags": ""
+  },
+  {
+    "artist": "Elton John",
+    "title": "Rocket Man",
+    "tags": ""
+  },
+  {
+    "artist": "Third Eye Blind",
+    "title": "Never Let You Go",
+    "tags": ""
+  },
+  {
+    "artist": "Bon Iver",
+    "title": "Skinny Love",
+    "tags": ""
+  },
+  {
+    "artist": "Spice Girls",
+    "title": "Say You'll Be There",
+    "tags": ""
+  },
+  {
+    "artist": "Justin Nozuka",
+    "title": "After Tonight",
+    "tags": ""
+  },
+  {
+    "artist": "Adele",
+    "title": "Chasing Pavements",
+    "tags": ""
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "The Lazy Song",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Stop This Train",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Who Says",
+    "tags": ""
+  },
+  {
+    "artist": "Maroon 5",
+    "title": "She Will Be Loved",
+    "tags": ""
+  },
+  {
+    "artist": "Coldplay Foo Fighters",
+    "title": "Green Eyes Everlong",
+    "tags": ""
+  },
+  {
+    "artist": "Green Day ",
+    "title": "Macy's Day Parade",
+    "tags": ""
+  },
+  {
+    "artist": "LFO",
+    "title": "Summer Girls",
+    "tags": ""
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Rock With You",
+    "tags": ""
+  },
+  {
+    "artist": "Vulfpeck",
+    "title": "Wait For The Moment",
+    "tags": ""
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Hit Me Baby One More Time",
+    "tags": ""
+  },
+  {
+    "artist": "Vampire Weekend",
+    "title": "Unbelievers",
+    "tags": ""
+  },
+  {
+    "artist": "Backstreet Boys",
+    "title": "Quit Playing Games With My Heart",
+    "tags": ""
+  },
+  {
+    "artist": "Rise Against",
+    "title": "Swing Life Away",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Slow Dancing In A Burning Room",
+    "tags": ""
+  },
+  {
+    "artist": "Ernie Halter",
+    "title": "Whisper",
+    "tags": ""
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "Always Be My Baby",
+    "tags": ""
+  },
+  {
+    "artist": "Fall Out Boy",
+    "title": "Nobody Puts Baby In The Corner",
+    "tags": ""
+  },
+  {
+    "artist": "Fall Out Boy",
+    "title": "Saturday",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "I'm Gonna Find Another You",
+    "tags": ""
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Toxic",
+    "tags": ""
+  },
+  {
+    "artist": "Estelle ft. Kanye West",
+    "title": "American Boy",
+    "tags": ""
+  },
+  {
+    "artist": "Gallant",
+    "title": "Cave Me In",
+    "tags": ""
+  },
+  {
+    "artist": "War",
+    "title": "Why Can't We Be Friends",
+    "tags": ""
+  },
+  {
+    "artist": "Evanescence",
+    "title": "Wake Me Up",
+    "tags": ""
+  },
+  {
+    "artist": "Wham",
+    "title": "Wake Me Up Before You Go-Go",
+    "tags": ""
+  },
+  {
+    "artist": "Colbie Caillat",
+    "title": "Bubbly",
+    "tags": ""
+  },
+  {
+    "artist": "Avril Lavigne",
+    "title": "Sk8er Boi",
+    "tags": ""
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Wish You Were Here",
+    "tags": ""
+  },
+  {
+    "artist": "Rick Astley",
+    "title": "Never Gonna Give You Up",
+    "tags": ""
+  },
+  {
+    "artist": "T-Pain",
+    "title": "Can't Believe It",
+    "tags": ""
+  },
+  {
+    "artist": "Queen",
+    "title": "Don't Stop Me Now",
+    "tags": ""
+  },
+  {
+    "artist": "ELO",
+    "title": "The Diary of Horace Whimp",
+    "tags": ""
+  },
+  {
+    "artist": "Toy Story",
+    "title": "You've Got A Friend In Me",
+    "tags": ""
+  },
+  {
+    "artist": "Rock Mafia",
+    "title": "The Big Bang",
+    "tags": ""
+  },
+  {
+    "artist": "B.J. Thomas",
+    "title": "Raindrops Keep Fallin On My Head",
+    "tags": ""
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "Change The World",
+    "tags": ""
+  },
+  {
+    "artist": "Oasis",
+    "title": "Some Might Say",
+    "tags": ""
+  },
+  {
+    "artist": "Oasis",
+    "title": "Don't Look Back In Anger",
+    "tags": ""
+  },
+  {
+    "artist": "Toto",
+    "title": "Rosanna",
+    "tags": ""
+  },
+  {
+    "artist": "Level 42",
+    "title": "Something About You",
+    "tags": ""
+  },
+  {
+    "artist": "Kenny Loggins",
+    "title": "Footloose",
+    "tags": ""
+  },
+  {
+    "artist": "Frank Valli & The Four Seasons",
+    "title": "December, 1963 (Oh What A Night)",
+    "tags": ""
+  },
+  {
+    "artist": "Spin Doctors",
+    "title": "Two Princes",
+    "tags": ""
+  },
+  {
+    "artist": "Donny Hathaway",
+    "title": "This Christmas",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Shawn Colvin",
+    "title": "Sunny Came Home",
+    "tags": ""
+  },
+  {
+    "artist": "Kyle Thornton",
+    "title": "Read Receipts",
+    "tags": ""
+  },
+  {
+    "artist": "PartyJamz",
+    "title": "Full Court Press",
+    "tags": ""
+  },
+  {
+    "artist": "Doobie Brothers",
+    "title": "What A Fool Believes",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Rocky Raccoon",
+    "tags": ""
+  },
+  {
+    "artist": "NSync",
+    "title": "Tearin Up My Heart",
+    "tags": ""
+  },
+  {
+    "artist": "NSync",
+    "title": "Merry Christmas Happy Holidays",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "Chestnuts Roasting On An Open Fire",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Justin Bieber",
+    "title": "Mistletoe",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "PYT",
+    "tags": ""
+  },
+  {
+    "artist": "Hanson",
+    "title": "MMMBop",
+    "tags": ""
+  },
+  {
+    "artist": "Hanson",
+    "title": "Merry Christmas Baby",
+    "tags": ""
+  },
+  {
+    "artist": "Christmas",
+    "title": "White Christmas",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "Baby It's Cold Outside",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Little River Band",
+    "title": "Reminiscing",
+    "tags": ""
+  },
+  {
+    "artist": "King Harvest",
+    "title": "Dancing in the Moonlight",
+    "tags": ""
+  },
+  {
+    "artist": "Christmas",
+    "title": "Santa Claus Is Coming To Town",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "Frosty The Snowman",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "Sleigh Ride",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "Santa Baby",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "Winter Wonderland",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "It's Beginning To Look a Lot Like Christmas",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "It's The Most Wonderful Time of the Year",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "I Saw Mommy Kissing Santa Claus",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "Joy To The World",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "I'll Be Home For Christmas",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Christmas",
+    "title": "Silent Night",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Vulfpeck",
+    "title": "Christmas in LA",
+    "tags": "holiday"
+  },
+  {
+    "artist": "Vulfpeck",
+    "title": "Birds of a Feather",
+    "tags": ""
+  },
+  {
+    "artist": "Niall Horan",
+    "title": "Slow Hands",
+    "tags": ""
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Finesse",
+    "tags": ""
+  },
+  {
+    "artist": "Camilla Cabello",
+    "title": "Havana",
+    "tags": ""
+  },
+  {
+    "artist": "David Byrne",
+    "title": "Like Humans Do",
+    "tags": ""
+  },
+  {
+    "artist": "Mingo Fishtrap",
+    "title": "Mason Jar",
+    "tags": ""
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "Tears In Heaven",
+    "tags": ""
+  },
+  {
+    "artist": "Extreme",
+    "title": "More Than Words",
+    "tags": ""
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "How Deep Is Your Love",
+    "tags": ""
+  },
+  {
+    "artist": "Bee Gees",
+    "title": " I Started A Joke",
+    "tags": ""
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Too Much Heaven",
+    "tags": ""
+  },
+  {
+    "artist": "Rex Orange County",
+    "title": "Untitled",
+    "tags": ""
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "That's What I Like",
+    "tags": ""
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Isn't She Lovely",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Yesterday",
+    "tags": ""
+  },
+  {
+    "artist": "REM",
+    "title": "Losing My Religion",
+    "tags": ""
+  },
+  {
+    "artist": "John Denver",
+    "title": "Take Me Home, Country Roads",
+    "tags": ""
+  },
+  {
+    "artist": "Shania Twain",
+    "title": "That Don't Impress Me Much",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Anna (Go To Him)",
+    "tags": ""
+  },
+  {
+    "artist": "Boston",
+    "title": "More Than A Feeling",
+    "tags": ""
+  },
+  {
+    "artist": "4 Non Blondes",
+    "title": "What's Up?",
+    "tags": ""
+  },
+  {
+    "artist": "Semisonic",
+    "title": "Closing Time",
+    "tags": ""
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "Against All Odds",
+    "tags": ""
+  },
+  {
+    "artist": "Daniel Caesar",
+    "title": "Best Part",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "With A Little Help From My Friends",
+    "tags": ""
+  },
+  {
+    "artist": "The Jam",
+    "title": "Town Called Malice",
+    "tags": ""
+  },
+  {
+    "artist": "The Dip",
+    "title": "State Line",
+    "tags": ""
+  },
+  {
+    "artist": "Zedd",
+    "title": "The Middle ft Maren Morris",
+    "tags": ""
+  },
+  {
+    "artist": "Bobby Caldwell",
+    "title": "What You Won't Do For Love",
+    "tags": ""
+  },
+  {
+    "artist": "Spanish",
+    "title": "La Bamba",
+    "tags": ""
+  },
+  {
+    "artist": "Spanish",
+    "title": "Besame Mucho",
+    "tags": ""
+  },
+  {
+    "artist": "Spanish",
+    "title": "La Cucaracha",
+    "tags": ""
+  },
+  {
+    "artist": "Eagles",
+    "title": "Take It Easy",
+    "tags": ""
+  },
+  {
+    "artist": "Redbone",
+    "title": "Come And Get Your Love",
+    "tags": ""
+  },
+  {
+    "artist": "Pilot",
+    "title": "Magic",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Say What You Need To Say",
+    "tags": ""
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "You Should Be Dancing",
+    "tags": ""
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "More Than A Woman",
+    "tags": ""
+  },
+  {
+    "artist": "Florida Georgia Line",
+    "title": "Meant To Be ft. Bebe Rexha",
+    "tags": ""
+  },
+  {
+    "artist": "Post Malone",
+    "title": "Go Flex",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Don't Let Me Down",
+    "tags": ""
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Signed, Sealed, Delivered",
+    "tags": ""
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "For Once In My Life",
+    "tags": ""
+  },
+  {
+    "artist": "Drake",
+    "title": "God’s Plan",
+    "tags": ""
+  },
+  {
+    "artist": "Usher",
+    "title": "Burn",
+    "tags": ""
+  },
+  {
+    "artist": "NSync",
+    "title": "This I Promise You",
+    "tags": ""
+  },
+  {
+    "artist": "Cardi B",
+    "title": "Bodak Yellow",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "A Day In The Life",
+    "tags": ""
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "You Can't Hurry Love",
+    "tags": ""
+  },
+  {
+    "artist": "Parsonsfield",
+    "title": "Anita",
+    "tags": ""
+  },
+  {
+    "artist": "Lawrence",
+    "title": "Shot",
+    "tags": ""
+  },
+  {
+    "artist": "Rex Orange County",
+    "title": "Loving Is Easy",
+    "tags": ""
+  },
+  {
+    "artist": "MGMT",
+    "title": "Electric Feel",
+    "tags": ""
+  },
+  {
+    "artist": "Sam Cooke",
+    "title": "Bring It On Home To Me",
+    "tags": ""
+  },
+  {
+    "artist": "Pearl Jam",
+    "title": "Better Man",
+    "tags": ""
+  },
+  {
+    "artist": "One Direction",
+    "title": "Night Wishes",
+    "tags": ""
+  },
+  {
+    "artist": "T-Pain",
+    "title": "Bartender",
+    "tags": ""
+  },
+  {
+    "artist": "Lil Dicky",
+    "title": "Freaky Friday",
+    "tags": ""
+  },
+  {
+    "artist": "Childish Gambino",
+    "title": "Redbone (Stay Woke)",
+    "tags": ""
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Lithium",
+    "tags": ""
+  },
+  {
+    "artist": "Nirvana",
+    "title": "In Bloom",
+    "tags": ""
+  },
+  {
+    "artist": "Cartel",
+    "title": "Honestly",
+    "tags": ""
+  },
+  {
+    "artist": "Daniel Caesar",
+    "title": "Get You",
+    "tags": ""
+  },
+  {
+    "artist": "Maroon 5",
+    "title": "Girls Like You",
+    "tags": ""
+  },
+  {
+    "artist": "Maroon 5",
+    "title": "What Lovers Do",
+    "tags": ""
+  },
+  {
+    "artist": "Herman's Hermits",
+    "title": "There's A Kind Of Hush",
+    "tags": ""
+  },
+  {
+    "artist": "ELO",
+    "title": "Midnight Blue",
+    "tags": ""
+  },
+  {
+    "artist": "Aaron Fresh",
+    "title": "Spending All My Time",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "While My Guitar Gently Wheeps",
+    "tags": ""
+  },
+  {
+    "artist": "Peter Frampton",
+    "title": "Baby I Love Your Way",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Half of My Heart",
+    "tags": ""
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Free Fallin",
+    "tags": ""
+  },
+  {
+    "artist": "The Beatles",
+    "title": "This Boy",
+    "tags": ""
+  },
+  {
+    "artist": "Mayday Parade",
+    "title": "Jamie All Over",
+    "tags": ""
+  },
+  {
+    "artist": "Dirty Heads",
+    "title": "Lay Me Down",
+    "tags": ""
+  },
+  {
+    "artist": "Fastball",
+    "title": "The Way",
+    "tags": ""
+  },
+  {
+    "artist": "Dance Gavin Dance",
+    "title": "Strawberry Swisher pt II",
+    "tags": ""
+  },
+  {
+    "artist": "Drake",
+    "title": "In My Feelings",
+    "tags": ""
+  },
+  {
+    "artist": "Bruno Mars-b",
+    "title": "Finesse (abridged)",
+    "tags": ""
+  },
+  {
+    "artist": "Thomas Rett",
+    "title": "Die A Happy Man",
+    "tags": ""
+  },
+  {
+    "artist": "Taking Back Sunday",
+    "title": "Cute Without The E",
+    "tags": ""
+  },
+  {
+    "artist": "Dispatch",
+    "title": "The General",
+    "tags": ""
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "Dream On",
+    "tags": ""
+  },
+  {
+    "artist": "Hank Williams",
+    "title": "Lovesick Blues",
+    "tags": ""
+  },
+  {
+    "artist": "Hank Williams",
+    "title": "Hey Good Lookin",
+    "tags": ""
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "title": "Baby I'm Yours",
+    "tags": ""
   }
 ]
